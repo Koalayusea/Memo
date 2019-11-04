@@ -1,0 +1,2015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Ch10-SpringMvc1:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc61908d-ebb5-4c4a-9ec0-6d94c64b6f5e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lab11_customerV6$Tomcat8_5.ic" NAME="Tomcat8.5 Coverage Results" MODIFIED="1543763507904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lab13_2_customerV7___JPA__MyBatis__One__to__many$Tomcat8_5.ic" NAME="Tomcat8.5 Coverage Results" MODIFIED="1544331593123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/customer_v6_springmvc$Tomcat8_5.ic" NAME="Tomcat8.5 Coverage Results" MODIFIED="1543750635335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lab15_customerV9___MyBatis__Spring__One__Many__finished$Tomcat8_5.ic" NAME="Tomcat8.5 Coverage Results" MODIFIED="1545035437678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lab12_customerV6_JPA$Tomcat8_5.ic" NAME="Tomcat8.5 Coverage Results" MODIFIED="1543982764843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="168" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="springjpa@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1381254797">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="5" />
+          <entry key="htm" value="13" />
+          <entry key="html" value="1576" />
+          <entry key="java" value="2296" />
+          <entry key="jsp" value="150" />
+          <entry key="xml" value="252" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1589" />
+          <entry key="JAVA" value="2296" />
+          <entry key="JSP" value="150" />
+          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="XML" value="252" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="4" />
+          <entry key="java" value="13" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="1" />
+          <entry key="jsp" value="11" />
+          <entry key="jspf" value="2" />
+          <entry key="xml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="4" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="13" />
+          <entry key="JSP" value="13" />
+          <entry key="JavaScript" value="1" />
+          <entry key="XML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="814644594">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="bak" value="1" />
+          <entry key="css" value="9" />
+          <entry key="html" value="1" />
+          <entry key="i18n-zh" value="1" />
+          <entry key="java" value="37" />
+          <entry key="js" value="3" />
+          <entry key="jsp" value="33" />
+          <entry key="jspf" value="1" />
+          <entry key="tag" value="15" />
+          <entry key="xml" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="37" />
+          <entry key="JSP" value="49" />
+          <entry key="JavaScript" value="3" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="XML" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="223" />
+          <entry key="java" value="3662" />
+          <entry key="jsp" value="846" />
+          <entry key="properties" value="11" />
+          <entry key="tag" value="2522" />
+          <entry key="xml" value="276" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="223" />
+          <entry key="JAVA" value="3662" />
+          <entry key="JSP" value="3368" />
+          <entry key="Properties" value="11" />
+          <entry key="XML" value="276" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1396378014">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="9" />
+          <entry key="java" value="2010" />
+          <entry key="jsp" value="386" />
+          <entry key="jspf" value="30" />
+          <entry key="xml" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2010" />
+          <entry key="JSP" value="416" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="63" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+          <entry key="jsp" value="13" />
+          <entry key="jspf" value="1" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+          <entry key="JSP" value="14" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1800119050">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2779" />
+          <entry key="jsp" value="139" />
+          <entry key="txt" value="48" />
+          <entry key="xml" value="202" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2778" />
+          <entry key="JPA QL" value="1" />
+          <entry key="JSP" value="139" />
+          <entry key="PLAIN_TEXT" value="48" />
+          <entry key="XML" value="202" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="authors" value="1" />
+          <entry key="class" value="2" />
+          <entry key="java" value="38" />
+          <entry key="jsp" value="7" />
+          <entry key="sql" value="4" />
+          <entry key="xml" value="24" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Database Element" value="1" />
+          <entry key="JAVA" value="38" />
+          <entry key="JSP" value="7" />
+          <entry key="Scratch" value="4" />
+          <entry key="XML" value="24" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1107665901">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1785834875">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="29" />
+          <entry key="jsp" value="2" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="29" />
+          <entry key="JSP" value="2" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1558" />
+          <entry key="jsp" value="7" />
+          <entry key="xml" value="714" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1558" />
+          <entry key="JSP" value="7" />
+          <entry key="SQL" value="3" />
+          <entry key="XML" value="711" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-581635668">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="java" value="37" />
+          <entry key="js" value="3" />
+          <entry key="jsp" value="4" />
+          <entry key="properties" value="8" />
+          <entry key="tag" value="2" />
+          <entry key="xml" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="37" />
+          <entry key="JSP" value="6" />
+          <entry key="JavaScript" value="3" />
+          <entry key="Properties" value="8" />
+          <entry key="XML" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="1807" />
+          <entry key="jsp" value="356" />
+          <entry key="properties" value="5" />
+          <entry key="tag" value="53" />
+          <entry key="xml" value="436" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1807" />
+          <entry key="JSP" value="409" />
+          <entry key="PLAIN_TEXT" value="7" />
+          <entry key="Properties" value="5" />
+          <entry key="XML" value="436" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1999251222">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="42" />
+          <entry key="properties" value="6" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="42" />
+          <entry key="Properties" value="6" />
+          <entry key="XML" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1492" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="980" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1492" />
+          <entry key="Properties" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="XML" value="979" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1054901526">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="css" value="1" />
+          <entry key="java" value="33" />
+          <entry key="jsp" value="9" />
+          <entry key="jspf" value="1" />
+          <entry key="tag" value="4" />
+          <entry key="tld" value="1" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="CSS" value="1" />
+          <entry key="JAVA" value="33" />
+          <entry key="JSP" value="14" />
+          <entry key="XML" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2410" />
+          <entry key="jsp" value="1392" />
+          <entry key="jspf" value="1" />
+          <entry key="tag" value="58" />
+          <entry key="tld" value="27" />
+          <entry key="xml" value="341" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2410" />
+          <entry key="JSP" value="1451" />
+          <entry key="XML" value="368" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1805577799">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="549" />
+          <entry key="jsp" value="63" />
+          <entry key="xml" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="549" />
+          <entry key="JSP" value="63" />
+          <entry key="XML" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="java" value="15" />
+          <entry key="jsp" value="3" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="JAVA" value="15" />
+          <entry key="JSP" value="3" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1164829473">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="62" />
+          <entry key="jsp" value="36" />
+          <entry key="jspf" value="3" />
+          <entry key="properties" value="9" />
+          <entry key="tag" value="3" />
+          <entry key="tld" value="2" />
+          <entry key="xhtml" value="1" />
+          <entry key="xml" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="62" />
+          <entry key="JSP" value="42" />
+          <entry key="Properties" value="9" />
+          <entry key="XHTML" value="1" />
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1163" />
+          <entry key="jsp" value="564" />
+          <entry key="properties" value="27" />
+          <entry key="tag" value="67" />
+          <entry key="xml" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1163" />
+          <entry key="JSP" value="631" />
+          <entry key="Properties" value="27" />
+          <entry key="XML" value="33" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2004570645">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="32" />
+          <entry key="jsp" value="8" />
+          <entry key="jspf" value="1" />
+          <entry key="properties" value="3" />
+          <entry key="rnc" value="1" />
+          <entry key="tag" value="4" />
+          <entry key="xml" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="32" />
+          <entry key="JSP" value="13" />
+          <entry key="Properties" value="3" />
+          <entry key="RNG Compact" value="1" />
+          <entry key="XML" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="1037" />
+          <entry key="jsp" value="117" />
+          <entry key="properties" value="4" />
+          <entry key="tag" value="4" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1037" />
+          <entry key="JSP" value="121" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2087927984">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="9" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="9" />
+          <entry key="Properties" value="3" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab15 customerV9---MyBatis--Spring--One--Many -finished" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/IndexController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/NoteController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="698">
+              <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/utils/MybatisUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/utils/NavigationTag.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/NoteDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/service/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/entity/Note.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/service/NoteService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="20" column="23" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/springmvc-config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="spring-beans.schema" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>validation</find>
+      <find>joda</find>
+      <find>annotation-processor</find>
+      <find>validator</find>
+      <find>hibernate</find>
+      <find>jboss-logging</find>
+      <find>客户</find>
+      <find>mysql</find>
+      <find>uni</find>
+      <find>unit</find>
+      <find>UserDao</find>
+      <find>TicketDao</find>
+      <find>ticketDao</find>
+      <find>jpa</find>
+      <find>?</find>
+      <find>getPages</find>
+      <find>rows</find>
+      <find>size</find>
+      <find>number</find>
+      <find>ticketDel</find>
+      <find>ticketId</find>
+      <find>公司</find>
+      <find>华</find>
+      <find>领航</find>
+      <find>备忘录</find>
+      <find>票据</find>
+      <find>userId</find>
+      <find>userid</find>
+      <find>查看</find>
+      <find>findNotetListByAction</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>1_</replace>
+      <replace>2_</replace>
+      <replace>票据</replace>
+      <replace>User</replace>
+      <replace>用户</replace>
+      <replace>userService</replace>
+      <replace>UserService</replace>
+      <replace>TicketService</replace>
+      <replace>ticketService</replace>
+      <replace>size</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/mapper/TicketMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/jee/support/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/entity/Attachment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/AttachementDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/service/AttachmentService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/controller/AttachmentController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/jee/support/dao/AttachmentDaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/entity/Ticket.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/AttachmentDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/AttachmentDao.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/listTickets.jsp" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/mybatis-config.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/tld/commons.tld" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/base.jspf" />
+        <option value="$PROJECT_DIR$/src/test/java/jee/support/dao/PageHelperTest.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/viewTicket.jsp" />
+        <option value="$PROJECT_DIR$/src/test/java/jee/support/service/TicketServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/TicketDao.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/service/TicketService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/TicketDao.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/listTicketPage.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/utils/NavigationTag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/filters/AuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/addTicket.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/viewNote.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage.xhtml" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/controller/TicketController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/editTicket.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/entity/Note.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/editNote.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/addNote.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/Main.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/tags/template/basic_backend.tag" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/db.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/UserDao.xml" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/tags/template/user_backend.tag" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage.jsp" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage_ac.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/service/NoteService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/controller/NoteController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/jee/support/dao/NoteDao.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Ch10-SpringMvc1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Ch10-SpringMvc1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Ch10-SpringMvc1" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="953" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJava</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Control flow issuesGroovy</id>
+          </State>
+          <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Error handlingJava</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>IconsUsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Inheritance issuesJava</id>
+          </State>
+          <State>
+            <id>InternationalizationJava</id>
+          </State>
+          <State>
+            <id>InternationalizationLintAndroid</id>
+          </State>
+          <State>
+            <id>JSP</id>
+          </State>
+          <State>
+            <id>JUnitJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 5Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java 9Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level issuesJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavadocJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Other problemsKotlin</id>
+          </State>
+          <State>
+            <id>PerformanceJava</id>
+          </State>
+          <State>
+            <id>PerformanceLintAndroid</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsGroovy</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Probable bugsKotlin</id>
+          </State>
+          <State>
+            <id>Reactor</id>
+          </State>
+          <State>
+            <id>Resource managementJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>SecurityLintAndroid</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring AOPSpring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+          <State>
+            <id>UI Form</id>
+          </State>
+          <State>
+            <id>UsabilityLintAndroid</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lab13 customerV6-Basic--MyBatis" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Ch10-SpringMvc1" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="lab13 customerV6-Basic--MyBatis" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Ch10-SpringMvc1" type="616d4139:PackageViewModuleNode" />
+              <item name="jee" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="lab13 customerV6-Basic--MyBatis" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Ch10-SpringMvc1" type="616d4139:PackageViewModuleNode" />
+              <item name="jee" type="1f31426a:PackageElementNode" />
+              <item name="support" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="filters" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="jee" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="J2EE实践" type="b2602c69:ProjectViewProjectNode" />
+              <item name="J2EE实践" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="JPA.DatabaseSchemaImportDialog" value="a93408b6-fe09-4750-b6aa-1d7ec656ccd8" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546523361492" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/jee/course/ch10" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="jee.course.supportv6.entity" />
+      <recent name="" />
+      <recent name="jee.course.supportv6.repository" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="jee.support.dao" />
+      <recent name="jee.support.service" />
+      <recent name="jee.support.entity" />
+      <recent name="jee.course.supportv6.dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="jee.support.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="jee.support.dao" />
+      <recent name="jee.support.service" />
+      <recent name="jee.support.entity" />
+      <recent name="jee.course.supportv6.entity" />
+      <recent name="jee.course.supportv6" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\94917\Desktop\J2EE实践\web\WEB-INF\jsp\view" />
+      <recent name="C:\Users\94917\Desktop\lab15 customerV9---MyBatis-One--Many V1.0\src\main\java\jee\support\controller" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 15 SSM + Restful\lab15 customerV9---MyBatis--Spring--One--Many\src\main\java\jee\support\utils" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 15 SSM + Restful\lab15 customerV9---MyBatis--Spring--One--Many\web\WEB-INF" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 15 SSM + Restful\lab15 customerV9---MyBatis--Spring--One--Many\web\WEB-INF\jsp\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\实验13 JPA基础—利用JPA构建数据仓库\lab13.2 customerV7---JPA--MyBatis--One--to--many\src\main\java\jee\support\dao" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\实验13 JPA基础—利用JPA构建数据仓库\lab13.2 customerV7---JPA--MyBatis--One--to--many\src\main\resources\config" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 12\lab12 customerV6-JPA\src\main\resources\META-INF" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 12\lab12 customerV6-JPA\src\main\resources" />
+      <recent name="E:\电子科技大学中山学院\2018下半年\J2EE平台应用与开发 2018\lab-2018\lab 12\lab12 customerV6-JPA\target\classes" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat8.5">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jee.support.Main" />
+      <module name="Ch10-SpringMvc1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jee.support.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jee.support.service.TicketService" />
+      <module name="Ch10-SpringMvc1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jee.support.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageHelperTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch10-SpringMvc1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jee.support.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jee.support.dao" />
+      <option name="MAIN_CLASS_NAME" value="jee.support.dao.PageHelperTest" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageHelperTest.testPageHelper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch10-SpringMvc1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jee.support.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jee.support.dao" />
+      <option name="MAIN_CLASS_NAME" value="jee.support.dao.PageHelperTest" />
+      <option name="METHOD_NAME" value="testPageHelper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketServiceTest.addTicket" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Ch10-SpringMvc1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jee.support.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="jee.support.service" />
+      <option name="MAIN_CLASS_NAME" value="jee.support.service.TicketServiceTest" />
+      <option name="METHOD_NAME" value="addTicket" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat8.5" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.12" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/note/" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="Ch10-SpringMvc1:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/note" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Ch10-SpringMvc1" />
+        <option name="JNDI_PORT" value="3099" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="37725" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Ch10-SpringMvc1:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat8.5" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.TicketService" />
+      <item itemvalue="JUnit.TicketServiceTest.addTicket" />
+      <item itemvalue="JUnit.PageHelperTest.testPageHelper" />
+      <item itemvalue="JUnit.PageHelperTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PageHelperTest" />
+        <item itemvalue="Application.TicketService" />
+        <item itemvalue="JUnit.PageHelperTest.testPageHelper" />
+        <item itemvalue="JUnit.TicketServiceTest.addTicket" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Hevean\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc61908d-ebb5-4c4a-9ec0-6d94c64b6f5e" name="Default Changelist" comment="" />
+      <created>1543149840062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543149840062</updated>
+      <workItem from="1543149842191" duration="6871000" />
+      <workItem from="1543198913542" duration="6861000" />
+      <workItem from="1543213412673" duration="10124000" />
+      <workItem from="1543241156755" duration="869000" />
+      <workItem from="1543276469084" duration="5240000" />
+      <workItem from="1543307984740" duration="1696000" />
+      <workItem from="1543311488869" duration="1422000" />
+      <workItem from="1543365167213" duration="24774000" />
+      <workItem from="1543479620132" duration="6685000" />
+      <workItem from="1543498947808" duration="5047000" />
+      <workItem from="1543546821679" duration="25877000" />
+      <workItem from="1543727475575" duration="6546000" />
+      <workItem from="1543750702288" duration="11821000" />
+      <workItem from="1543795191567" duration="4615000" />
+      <workItem from="1543802158673" duration="5102000" />
+      <workItem from="1543828918262" duration="2268000" />
+      <workItem from="1543840305859" duration="9425000" />
+      <workItem from="1543888380891" duration="5355000" />
+      <workItem from="1543908030794" duration="1477000" />
+      <workItem from="1543912508895" duration="1770000" />
+      <workItem from="1543925335157" duration="1418000" />
+      <workItem from="1543934631916" duration="14790000" />
+      <workItem from="1543995492141" duration="5063000" />
+      <workItem from="1544081565528" duration="7740000" />
+      <workItem from="1544172420762" duration="4871000" />
+      <workItem from="1544232744669" duration="14463000" />
+      <workItem from="1544318361460" duration="3323000" />
+      <workItem from="1544329172804" duration="4652000" />
+      <workItem from="1544345076781" duration="3179000" />
+      <workItem from="1544435494516" duration="1206000" />
+      <workItem from="1544445518644" duration="7441000" />
+      <workItem from="1544488517666" duration="10008000" />
+      <workItem from="1544514630480" duration="4533000" />
+      <workItem from="1544540743412" duration="1720000" />
+      <workItem from="1544603198315" duration="1786000" />
+      <workItem from="1544626257920" duration="2593000" />
+      <workItem from="1544771468970" duration="7357000" />
+      <workItem from="1544862424934" duration="20794000" />
+      <workItem from="1545004804169" duration="7861000" />
+      <workItem from="1545034862632" duration="656000" />
+      <workItem from="1545037623472" duration="3816000" />
+      <workItem from="1545894283179" duration="22657000" />
+      <workItem from="1546151638293" duration="3901000" />
+      <workItem from="1546179023688" duration="2974000" />
+      <workItem from="1546399480369" duration="378000" />
+      <workItem from="1546400268729" duration="2691000" />
+      <workItem from="1546506971640" duration="1527000" />
+      <workItem from="1546515850960" duration="7497000" />
+      <workItem from="1546529961418" duration="1036000" />
+      <workItem from="1548589478901" duration="29000" />
+      <workItem from="1560671818816" duration="194000" />
+      <workItem from="1560672182687" duration="26000" />
+      <workItem from="1572856895218" duration="388000" />
+      <workItem from="1572875604285" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TicketServiceTest_findSubjectLike - 2018.12.10 at 21h 47m 02s.xml">
+      <configuration name="TicketServiceTest.findSubjectLike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicketServiceTest_findSubjectLike - 2018.12.10 at 21h 47m 45s.xml">
+      <configuration name="TicketServiceTest.findSubjectLike" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserDaoTest_deleteUser - 2018.12.11 at 08h 39m 39s.xml">
+      <configuration name="UserDaoTest.deleteUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AttachmentDaoTest_findByTicketId - 2018.12.11 at 11h 11m 51s.xml">
+      <configuration name="AttachmentDaoTest.findByTicketId" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicketServiceTest_addTicket - 2018.12.15 at 21h 19m 19s.xml">
+      <configuration name="TicketServiceTest.addTicket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicketServiceTest_addTicket - 2018.12.15 at 21h 20m 49s.xml">
+      <configuration name="TicketServiceTest.addTicket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicketServiceTest_addTicket - 2018.12.15 at 21h 21m 49s.xml">
+      <configuration name="TicketServiceTest.addTicket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TicketServiceTest_addTicket - 2018.12.16 at 16h 31m 01s.xml">
+      <configuration name="TicketServiceTest.addTicket" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageHelperTest_testPageHelper - 2018.12.16 at 19h 21m 48s.xml">
+      <configuration name="PageHelperTest.testPageHelper" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PageHelperTest - 2018.12.17 at 09h 38m 56s.xml">
+      <configuration name="PageHelperTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="317708000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3251366" visible="true" weight="0.18656716" />
+      <window_info id="Structure" order="1" sideWeight="0.6748634" side_tool="true" weight="0.21178757" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.6748634" side_tool="true" weight="0.21178757" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" sideWeight="0.6748634" side_tool="true" weight="0.21178757" />
+      <window_info id="Persistence" order="8" sideWeight="0.23362832" side_tool="true" weight="0.19818653" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.45957446" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4974093" weight="0.44251627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3252841" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.25710228" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50259066" side_tool="true" weight="0.31392047" />
+      <window_info anchor="bottom" id="Spring" order="9" weight="0.328125" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.007592191" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.32918552" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.3290993" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.15497738" />
+      <window_info anchor="bottom" id="Database Changes" order="15" weight="0.32844242" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" sideWeight="0.49723756" weight="0.27202073" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3159871" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3299356" />
+      <window_info anchor="right" id="Coverage" order="10" sideWeight="0.50276244" side_tool="true" weight="0.23206107" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/AttachmentDao.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/entity/Attachment.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage.xhtml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/entity/Ticket.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/TicketDao.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/service/TicketService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/TicketController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/TicketDao.xml" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/viewTicket.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/addTicket_bak.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="31" column="16" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/addTicket.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/editTicket.jsp" />
+    <entry file="jar://D:/jdk/jdk1.8.0_144/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="501" selection-start-line="501" selection-end-line="501" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listTicketPage.jsp" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/i18n/validation-zh.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jee/support/dao/TicketDaoTest.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tld/commons.tld">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-607" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/viewNote.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/sessions.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/Main.java" />
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/addNote.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/footer.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1502">
+          <caret line="103" column="30" selection-start-line="103" selection-start-column="30" selection-end-line="103" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/base.jspf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/editNote.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/jsp/view/listNotePage_ac.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/basic_backend.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-654">
+          <caret line="85" column="33" lean-forward="true" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/tags/template/user_backend.tag">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="37" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/LoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="33" column="42" selection-start-line="31" selection-start-column="12" selection-end-line="33" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/UserDao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="3" column="24" lean-forward="true" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/constants/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/constants/OpCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="28" column="61" lean-forward="true" selection-start-line="28" selection-start-column="61" selection-end-line="28" selection-end-column="61" />
+          <folding>
+            <element signature="e#1441#1459#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/mybatis-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="15" lean-forward="true" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/utils/MybatisUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/utils/NavigationTag.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="43" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/dao/NoteDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/entity/Note.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/service/NoteService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/springmvc-config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jee/support/controller/NoteController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="71" column="35" lean-forward="true" selection-start-line="71" selection-start-column="35" selection-end-line="71" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Ch10-SpringMvc1:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (Ch10-SpringMvc1)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.5.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ch10-SpringMvc1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.6-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
